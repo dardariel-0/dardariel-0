@@ -9,7 +9,7 @@ Olá! Sou o Daniel, designer formado pela UFCG com 4 anos de experiência em Des
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -35,14 +35,7 @@ Olá! Sou o Daniel, designer formado pela UFCG com 4 anos de experiência em Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
@@ -79,17 +72,9 @@ Olá! Sou o Daniel, designer formado pela UFCG com 4 anos de experiência em Des
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
